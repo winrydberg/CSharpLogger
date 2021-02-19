@@ -1,0 +1,13 @@
+C:\Users\edwin\source\repos\ErrorLogger\ErrorLogger\bin\Debug\netcoreapp3.1\ErrorLogger.exe
+C:\Users\edwin\source\repos\ErrorLogger\ErrorLogger\bin\Debug\netcoreapp3.1\ErrorLogger.deps.json
+C:\Users\edwin\source\repos\ErrorLogger\ErrorLogger\bin\Debug\netcoreapp3.1\ErrorLogger.runtimeconfig.json
+C:\Users\edwin\source\repos\ErrorLogger\ErrorLogger\bin\Debug\netcoreapp3.1\ErrorLogger.runtimeconfig.dev.json
+C:\Users\edwin\source\repos\ErrorLogger\ErrorLogger\bin\Debug\netcoreapp3.1\ErrorLogger.dll
+C:\Users\edwin\source\repos\ErrorLogger\ErrorLogger\bin\Debug\netcoreapp3.1\ErrorLogger.pdb
+C:\Users\edwin\source\repos\ErrorLogger\ErrorLogger\obj\Debug\netcoreapp3.1\ErrorLogger.csprojAssemblyReference.cache
+C:\Users\edwin\source\repos\ErrorLogger\ErrorLogger\obj\Debug\netcoreapp3.1\ErrorLogger.AssemblyInfoInputs.cache
+C:\Users\edwin\source\repos\ErrorLogger\ErrorLogger\obj\Debug\netcoreapp3.1\ErrorLogger.AssemblyInfo.cs
+C:\Users\edwin\source\repos\ErrorLogger\ErrorLogger\obj\Debug\netcoreapp3.1\ErrorLogger.csproj.CoreCompileInputs.cache
+C:\Users\edwin\source\repos\ErrorLogger\ErrorLogger\obj\Debug\netcoreapp3.1\ErrorLogger.dll
+C:\Users\edwin\source\repos\ErrorLogger\ErrorLogger\obj\Debug\netcoreapp3.1\ErrorLogger.pdb
+C:\Users\edwin\source\repos\ErrorLogger\ErrorLogger\obj\Debug\netcoreapp3.1\ErrorLogger.genruntimeconfig.cache
